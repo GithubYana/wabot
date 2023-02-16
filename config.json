@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6281297497907@s.whatsapp.net"],
+  "ownerName": ["Chuyaa"],
+  "botName": "BoboiBot",
+  "buttonName": "Youtube",
+  "buttonLink": "https://youtube.com/@chuyana1964",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/chuuya.na_/",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
